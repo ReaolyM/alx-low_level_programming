@@ -1,4 +1,5 @@
 #include "main.h"
+sed --in-place 's/[[:space:]]\+$//' 7-print_last_digit.c
 /**
  * print_last_digit - prints the last digit of a number
  * @n: the int to extract the last digit from
