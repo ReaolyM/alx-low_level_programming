@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset is used to fill a block of memory with a particular value
+ *_memset - is used to fill a block of memory with a particular value
  *@s: the address of the memory to be filled
  *@n: the number of bytes to be filled
  *@b: the desired value 
